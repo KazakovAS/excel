@@ -1,3 +1,3 @@
-import './module';
+import 'src/module';
 
 console.log('working');
