@@ -1,0 +1,30 @@
+{
+  "name": "excel",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --config webpack.config.js",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KazakovAS/excel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "exel"
+  ],
+  "author": "Alexey Kazakov <admin@kazakov-a.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KazakovAS/excel/issues"
+  },
+  "homepage": "https://github.com/KazakovAS/excel#readme",
+  "devDependencies": {
+    "webpack": "^5.10.1",
+    "webpack-cli": "^4.2.0"
+  }
+}
