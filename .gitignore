@@ -1,0 +1,19 @@
+# Default
+.gulp
+.idea
+.vscode
+.css
+
+# Node
+node_modules
+
+# Build & test
+test
+build
+
+# BD
+*.sql
+*.sqlite
+
+# Logs
+*.log
